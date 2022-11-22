@@ -1,0 +1,13 @@
+The big idea behind your project (i.e. what are you making / doing)?
+We're making a text-based horror game, which requires players to find the right methods to escape from a room. 
+There are many questions that are able to provide hints to find the key.
+What are the (major) building blocks the project will need to be successful?
+Human's behaviors and actions.
+Questions with answers.
+Which do you know how to build already, and which ones do you still need to figure out?
+Human's activities can be inherited from Contract.
+Question arraylists.
+Are there any potential roadblocks?
+Since every player has different talking habits, it's hard to relate their input with our default input.
+How does your team plan to divide up the work needed to complete this project?
+We would like to work together, maybe both "navigator" and driver.
